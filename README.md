@@ -111,7 +111,7 @@ hobbies: ["Movies", "Learning new language", "Problem solving on leetcode", "Mus
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaleabe-n&repo=kaleabe-n)](https://github.com/kaleabe-n/kaleabe-n)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaleabe-n&repo=Competitve_programming)](https://github.com/kaleave-n/Competitive_programming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaleabe-n&repo=Competitve_programming)](https://github.com/kaleabe-n/Competitive_programming)
 
 
 
