@@ -105,7 +105,7 @@ hobbies: ["Movies", "Learning new language", "Problem solving on leetcode", "Mus
 ## Some public repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaleabe-n&repo=kaleabe-n.github.io)](https://github.com/kaleabe-n/kaleabe-n.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yared04&repo=flutter_project)](https://github.com/kaleabe-n/flutter_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yared04&repo=flutter_project)](https://github.com/yared04/flutter_project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaleabe-n&repo=deep-learning)](https://github.com/kaleabe-n/deep-learning)
 
