@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello there!&animation=fadeIn&type=waving&color=gradient&height=80"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?text=Hello there!&animation=fadeIn&type=waving&color=gradient&height=80"/>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWppY3A3Z2lyd3pteWVkOWdreGZ0ZG5tc3RtcHI4YmYweDlmZzN3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width = "100%">
 
