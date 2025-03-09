@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello there!&animation=fadeIn&type=waving&color=gradient&height=80"/>
-</p>
+<div style="position: relative; width: 100%;">
+  <img src="https://i.gifer.com/XZ5V.gif" height="50" width="100%"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; font-size: 24px; color: white;">
+    Hello there!
+  </div>
+</div>
 
+<!--  -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWppY3A3Z2lyd3pteWVkOWdreGZ0ZG5tc3RtcHI4YmYweDlmZzN3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width = "100%">
 
 <!-- ![hello](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWppY3A3Z2lyd3pteWVkOWdreGZ0ZG5tc3RtcHI4YmYweDlmZzN3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif) -->
