@@ -127,7 +127,7 @@ hobbies: ["Movies", "Learning new language", "Problem solving on leetcode", "Mus
 <!-- ![](https://leetcard.jacoblin.cool/kaleabe-n?ext=contest)
 ![](https://leetcard.jacoblin.cool/kaleabe-n?ext=heatmap) -->
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=kaleabe-n&animated=true&theme=dark" alt="LeetCode Badges" />
+[<img src="https://leetcode-badge-showcase.vercel.app/api?username=kaleabe-n&animated=true&theme=dark" alt="LeetCode Badges" />](https://leetcode-badge-showcase.vercel.app/api?username=kaleabe-n&animated=true&theme=dark)
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaleabe)](https://github.com/kaleabe-n/github-readme-stats) -->
 
