@@ -41,6 +41,9 @@ technical_background:
     "Fullstack Developer"
     "Fullstack developer - Mobile developer at Kifiya",
 
+    "Cross Platform Mobile Developer"
+    "Mobile Developer - A2SV RATEEAT",
+
     "Machine learning engineer and mobile developer"
     "Machine learning, mobile and backend developer at Ethiopian artificial intelligence institute"
   ]
