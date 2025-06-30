@@ -26,7 +26,7 @@ education:
     "1 Year code camp of datastructure and algorithms",
   ]
 
-company: A2SV
+company: Kifiya
 
 fields_of_interests:
   [
@@ -38,15 +38,15 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Mobile Developer"
-    "Lead Mobile developer - Mobile developer at A2SV RateEat",
+    "Fullstack Developer"
+    "Fullstack developer - Mobile developer at Kifiya",
 
     "Machine learning engineer and mobile developer"
     "Machine learning, mobile and backend developer at Ethiopian artificial intelligence institute"
   ]
   
 currently_learning: ["Machinge learning and Reinforcement learning"]
-2024 Goals: ["Learn one new framework."]
+2025 Goals: ["Learn one new framework."]
 hobbies: ["Movies", "Learning new language", "Problem solving on leetcode", "Music"]
 ```
 ---
