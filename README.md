@@ -80,7 +80,7 @@ hobbies: ["Movies", "Learning new language", "Problem solving on leetcode", "Mus
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabe-n&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![ Stats](https://leetcode-status.vercel.app/api/card/kaleabe-n?theme=dark&hide_title=false&custom_title=) -->
-
+<!--
 <div style="display: flex; flex-direction: row;  align-items: center;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabe-n&layout=compact&langs_count=8&theme=dark" width="247">
@@ -97,14 +97,14 @@ hobbies: ["Movies", "Learning new language", "Problem solving on leetcode", "Mus
     <img src="https://github-readme-stats.vercel.app/api?username=kaleabe-n&show_icons=true" width="470"/>
 </picture>
 </div>
-
+-->
 ---
 
 <!-- ![](https://leetcard.jacoblin.cool/kaleabe-n?ext=contest)
 ![](https://leetcard.jacoblin.cool/kaleabe-n?ext=heatmap) -->
 >
 
-## Some public repos
+<!-- ## Some public repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaleabe-n&repo=kaleabe-n.github.io)](https://github.com/kaleabe-n/kaleabe-n.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yared04&repo=flutter_project)](https://github.com/yared04/flutter_project)
@@ -115,7 +115,7 @@ hobbies: ["Movies", "Learning new language", "Problem solving on leetcode", "Mus
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaleabe-n&repo=Competitve_programming)](https://github.com/kaleabe-n/Competitive_programming)
 
-
+-->
 
 ## Leetcode
 
